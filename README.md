@@ -47,7 +47,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /><br>
+ktroisn
   
 </p>
 
@@ -58,4 +59,4 @@
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 02/7/2023
+Last Edited on: 02/07/2023
