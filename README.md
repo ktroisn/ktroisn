@@ -16,11 +16,11 @@
 <!--Intro start-->
 - 😁 My name is **Quentin**, I'm 23 years old.
 
-- 🔭 I’m currently learning **Web Development**.
+- 🔭 Currently learning **Web Development**.
 
-- ⏭️ I'm looking for a company to offer me an apprenticeship as an **Application Developer**.
+- ⏭️ Looking for a company to offer me an apprenticeship as an **Application Developer**.
 
-- 🇫🇷 I'm from **France**.
+- 🇫🇷 From **France**.
 
 
 <!--h1 without bottom border-->
